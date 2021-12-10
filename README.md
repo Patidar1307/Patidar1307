@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patidar
-- 👀 I’m interested in Electronics
+- 👀 I’m interested in Electronics Embedded Systems
 - 🌱 I’m currently learning IOT security
 - 💞️ I’m looking to collaborate on embedded developement
 - 📫 How to reach me: on my email id 
